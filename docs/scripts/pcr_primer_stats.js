@@ -818,7 +818,7 @@ function _getDsHash() {
   hash["gg"] = -19.9;
   hash["ga"] = -22.2;
   hash["gt"] = -22.4;
-  hash["gc"] = -27.2;
+  hash["gc"] = -24.4;
 
   hash["ag"] = -21.0;
   hash["aa"] = -22.2;
@@ -844,7 +844,7 @@ function _getDhHash() {
   hash["gg"] = -8.0;
   hash["ga"] = -8.2;
   hash["gt"] = -8.4;
-  hash["gc"] = -10.6;
+  hash["gc"] = -9.8;
 
   hash["ag"] = -7.8;
   hash["aa"] = -7.9;
